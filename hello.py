@@ -4,7 +4,13 @@
 # to the console (the panel on the right)
 
 print("Hello");
-
+print("Hello, World!");
+print(5);
+print(2+2);
+print("message 1\nmessage 2\n message 3");
+print("message 1 on same line as message 2");
+print('message with "quotation marks"');
+print("message 1 \t message 2")
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
