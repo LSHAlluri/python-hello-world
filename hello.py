@@ -7,7 +7,7 @@ print("Hello");
 print("Hello, World!");
 print(5);
 print(2+2);
-print("message 1\nmessage 2\n message 3");
+print("message 1\nmessage 2\nmessage 3");
 print("message 1 on same line as message 2");
 print('message with "quotation marks"');
 print("message 1 \t message 2")
